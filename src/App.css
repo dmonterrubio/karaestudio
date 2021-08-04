@@ -1,0 +1,12 @@
+.app {
+  max-width: 100%;
+  min-height: 100vh;
+}
+/* 
+@media (min-width: 800px) {
+  .app {
+    padding: 0 100px;
+    margin-top: 5vh;
+    min-height: 90vh;
+  }
+} */

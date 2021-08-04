@@ -1,0 +1,43 @@
+.home {overflow: hidden;}
+
+.title {
+    font-family: Silka;
+    font-size: 2.2em;
+    margin: 5px 0;
+    padding: 3% 0;
+}
+.text {
+    width: 30%;
+    font-size: 0.8em;
+    margin-left: 10%;
+    padding-bottom: 3%;
+}
+.text p{
+    line-height: 25px;
+}
+.mobileImage{
+    display: none;
+}
+
+@media (min-width: 1600px){
+    .text p{
+        line-height: 42px;
+    }
+}
+
+@media (max-width: 600px){
+    .title {
+        font-size: 2.7em
+    }
+    .text {
+        width: 95%;
+        margin: 0 5%;
+    }
+    .mobileImage{
+        display: block;
+    }
+    .mobileImage img{
+        width: 100%;
+    }
+}
+

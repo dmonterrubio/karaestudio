@@ -1,0 +1,45 @@
+
+.header {
+    text-align: center;
+    background: transparent;
+    margin-left: 10%;
+    width: 100%;
+    font-size: 0.5em;
+    padding: 3% 0 1% 0;
+  }
+  .header img {
+    width: 8%;
+    float: left;
+  }
+  .header a {
+    margin-right: 5px;
+    padding-top: 15px;
+  }
+  .header a:link, .header a:visited {
+    text-decoration: none;
+    color: #000;
+  }
+  .header .emails a{
+    text-decoration: underline;
+  }
+  .header p {
+    display: inline-block;
+    margin-right: 100px;
+  }
+  .header .info {
+    display: inline-block;
+    margin-left: 10%;
+  }
+
+  @media (max-width: 600px){
+    .header {
+      margin: 0;
+    }
+    .header img {
+      width: 30%;
+      float: none;
+    }
+    .header .info {
+      display: none;
+    }
+}

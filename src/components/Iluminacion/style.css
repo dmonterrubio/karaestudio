@@ -1,0 +1,7 @@
+.iluminacion {
+    background-color: #ffd105;
+    overflow: hidden;
+}
+.iluminacion .text{
+    padding: 0;
+}

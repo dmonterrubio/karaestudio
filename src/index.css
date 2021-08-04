@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Silka';
+  src: local('Silka'),
+       url('./fonts/Silka-Medium.otf') format('truetype')
+}
+@font-face {
+  font-family: 'SilkaMono';
+  src: local('SilkaMono'),
+       url('./fonts/SilkaMono-Regular.otf') format('truetype')
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+body {
+  margin: 0;
+  font-family: Silkamono;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #faf8ec;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* 
+.container {
+  margin: 0 auto;
+  padding: 0 15px;
+  max-width: 1280px;
+} */
+
+p {
+  line-height: 30px;
+}
+

@@ -1,0 +1,39 @@
+.contacto{
+    overflow: hidden;
+    background-color: #f8f6e8;
+}
+.contacto .text{
+    font-size: 0.8em;
+    margin-left: 10%;
+}
+.contacto .datos {
+    float: left;
+}
+.contacto .datos a{
+    color: #000;
+}
+.contacto .media {
+    text-align: center;
+    padding-bottom: 7%;
+}
+.contacto .media img {
+    width: 40%;
+}
+.contacto .mobileImage {
+    display: none;
+}
+.contacto .contacto_ara a, .contacto .contacto_andrea a{
+    text-decoration: none; 
+}
+
+@media (max-width: 600px) {
+    .contacto .media{
+        display: none;
+    }
+    .contacto .mobileImage {
+        display: block;
+    }
+    .contacto .datos {
+        float: none;
+    }
+}
