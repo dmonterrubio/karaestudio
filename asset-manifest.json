@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/karaestudio/static/css/main.ed8d1f96.chunk.css",
+    "main.js": "/karaestudio/static/js/main.e1c93fce.chunk.js",
+    "main.js.map": "/karaestudio/static/js/main.e1c93fce.chunk.js.map",
+    "runtime-main.js": "/karaestudio/static/js/runtime-main.7e3049e1.js",
+    "runtime-main.js.map": "/karaestudio/static/js/runtime-main.7e3049e1.js.map",
+    "static/js/2.9ed7cf00.chunk.js": "/karaestudio/static/js/2.9ed7cf00.chunk.js",
+    "static/js/2.9ed7cf00.chunk.js.map": "/karaestudio/static/js/2.9ed7cf00.chunk.js.map",
+    "static/js/3.367c4e3a.chunk.js": "/karaestudio/static/js/3.367c4e3a.chunk.js",
+    "static/js/3.367c4e3a.chunk.js.map": "/karaestudio/static/js/3.367c4e3a.chunk.js.map",
+    "index.html": "/karaestudio/index.html",
+    "static/css/main.ed8d1f96.chunk.css.map": "/karaestudio/static/css/main.ed8d1f96.chunk.css.map",
+    "static/js/2.9ed7cf00.chunk.js.LICENSE.txt": "/karaestudio/static/js/2.9ed7cf00.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/karaestudio/static/media/SilkaMono-Regular.0f5161fb.otf",
+    "static/media/iluminacion.8bbd4681.png": "/karaestudio/static/media/iluminacion.8bbd4681.png",
+    "static/media/iluminacion_web.458066cc.png": "/karaestudio/static/media/iluminacion_web.458066cc.png",
+    "static/media/logo.e7ea43de.png": "/karaestudio/static/media/logo.e7ea43de.png",
+    "static/media/montañas.6cba707b.png": "/karaestudio/static/media/montañas.6cba707b.png",
+    "static/media/pagina_01_general.2dafd424.png": "/karaestudio/static/media/pagina_01_general.2dafd424.png",
+    "static/media/retrato_1.807814bc.jpg": "/karaestudio/static/media/retrato_1.807814bc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e3049e1.js",
+    "static/js/2.9ed7cf00.chunk.js",
+    "static/css/main.ed8d1f96.chunk.css",
+    "static/js/main.e1c93fce.chunk.js"
+  ]
+}
