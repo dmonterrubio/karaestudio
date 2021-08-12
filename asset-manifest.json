@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f053d532.chunk.css",
-    "main.js": "/static/js/main.edb47b4c.chunk.js",
-    "main.js.map": "/static/js/main.edb47b4c.chunk.js.map",
+    "main.js": "/static/js/main.e382c925.chunk.js",
+    "main.js.map": "/static/js/main.e382c925.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.41ae3bdb.js",
     "runtime-main.js.map": "/static/js/runtime-main.41ae3bdb.js.map",
     "static/js/2.9ed7cf00.chunk.js": "/static/js/2.9ed7cf00.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/index.css": "/static/media/SilkaMono-Regular.0f5161fb.otf",
     "static/media/iluminacion.8bbd4681.png": "/static/media/iluminacion.8bbd4681.png",
     "static/media/iluminacion_web.458066cc.png": "/static/media/iluminacion_web.458066cc.png",
-    "static/media/logo.37aa65c2.png": "/static/media/logo.37aa65c2.png",
+    "static/media/kara_logo.90b1d61b.png": "/static/media/kara_logo.90b1d61b.png",
     "static/media/montañas.c14ef4bd.png": "/static/media/montañas.c14ef4bd.png",
     "static/media/pagina_01_general.2dafd424.png": "/static/media/pagina_01_general.2dafd424.png",
     "static/media/retrato_1.807814bc.jpg": "/static/media/retrato_1.807814bc.jpg"
@@ -24,6 +24,6 @@
     "static/js/runtime-main.41ae3bdb.js",
     "static/js/2.9ed7cf00.chunk.js",
     "static/css/main.f053d532.chunk.css",
-    "static/js/main.edb47b4c.chunk.js"
+    "static/js/main.e382c925.chunk.js"
   ]
 }
