@@ -25,7 +25,7 @@ const Iluminacion = () => {
             <Header />
             <Arrow linkToSection={'/contacto'}/>
             <div className="mobileImage">
-                    <img src={mobileImage} alt="mobileImage" />
+                <img src={mobileImage} alt="mobileImage" />
             </div>
             <div className="text">
                 <div className="title">
