@@ -34,15 +34,15 @@ const Home = () => {
                     Interiorismo
                 </div>
                 <p>
-                    Desarrollamos proyectos de interiorismo sostenible para un impacto positivo en
+                    Desarrollamos proyectos de interiorismo sostenible para un <u>impacto positivo</u> en
                     las personas y el entorno. Construimos y rehabilitamos espacios bellos, confortables y saludables para convivir en armonía con el medio ambiente.
                 </p>
                 <p>
                 En los <u>espacios, hogares, lugares de
-                trabajo</u> que proyectamos, aunamos <u>tradición, sostenibilidad y vanguardia</u>. Una apuesta renovada por la bioconstrucción que recupera nuestra sabiduría tradicional y los valores artesanos, el uso de materiales orgánicos
+                trabajo</u> que proyectamos, aunamos <u>tradición, sostenibilidad y vanguardia</u>. Una apuesta renovada por la <u>bioconstrucción</u> que recupera nuestra sabiduría tradicional y los valores artesanos, el uso de materiales orgánicos
                 y naturales y la aplicación de las últimas tecnologías de construcción.
                 </p>
-                <p>Evitamos así la presencia en los espacios habitados de elementos nocivos para nuestra salud y el medioambiente, en favor del uso y reutilización de materiales orgánicos tanto en el diseño de los espacios como en el diseño de su mobiliario.</p>
+                <p>Evitamos la presencia en los espacios habitados de elementos nocivos para nuestra salud y el medioambiente, en favor del uso y reutilización de materiales orgánicos tanto en el diseño de los espacios como en el diseño de su mobiliario.</p>
             </div>
           <Footer />
         </div>

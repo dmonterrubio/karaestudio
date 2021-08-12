@@ -3,11 +3,11 @@
     text-align: center;
     background: transparent;
     display: inline-block;
-    margin-left: 10%;
     width: 100%;
-    margin-top: 3%;
+    margin: 3% 0 2% 10%;
     font-size: 0.5em;
-    padding-bottom: 3%;
+    position: fixed;
+    bottom: 0px;
   }
   .footer p {
     display: inline-block;
@@ -24,9 +24,10 @@
   @media (max-width: 600px) {
     .footer{
       display: block;
-      font-size: 1em;
+      font-size: 0.8em;
       margin: 0 auto;
       padding-top: 3%;
+      position: initial;
     }
     .footer .copy{
       margin: 0

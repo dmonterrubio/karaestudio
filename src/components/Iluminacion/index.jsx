@@ -32,15 +32,17 @@ const Iluminacion = () => {
                     Iluminación
                 </div>
                 <p>
-                    Somos <u>especialistas</u> en <u>iluminación</u>, en todos
-                    y cada uno de los diferentes ámbitos de la arquitectura, el <u>interiorismo</u> y <u>paisajismo</u>.
-                    Ya desde nuestros comienzos como <u>interioristas</u> entendimos de la importancia de la <u>luz</u>, tanto de la iluminación de día como de la iluminación de noche y de la diferencia entre ambas.
-                    También entendimos de su dificultad y de sus infinitas posibilidades. Por ello decidimos formarnos y especializarnos en el diseño de iluminación.
+                    Somos <u>especialistas</u> en <u>Iluminación</u> arquitectónica tanto de <u>interiores</u> _espacios comerciales, vivienda, hoteles, restaurantes, espacios de bienestar, museos, arte efímero como de <u>exteriores</u> _ jardines, patios, monumentos, espacios públicos...
                 </p>
                 <p>
-                    Hoy en día y dadas las infinitas posibilidades técnicas en cuantos a tipo y maneras de iluminar se hace más necesario que nunca
-                    el contar con la ayuda y asesoramiento de especialistas en esta materia, pudiendo de este modo poder aportar la mejor solución a cada proyecto, y obtener como resultado espacios pensados, sanos y cuidados.
-                    La luz nos ayudará a entender los espacios, a crear sensaciones y a potenciar nuestro <u>bienestar</u> físico y mental.</p>
+                    Desde nuestros comienzos como Interioristas entendimos la importancia de plantear <u>soluciones lumínicas</u> concretas para los diferentes espacios dependiendo de sus usos y necesidades.
+                </p>
+                <p>
+                    Una propuesta de iluminación <u>adecuada</u> al espacio incide notablemente en el resultado final.
+                </p>
+                <p>
+                    <u>La luz</u> nos ayudará a percibir los espacios, a crear sensaciones y a potenciar nuestro <u>bienestar físico y mental</u>.
+                </p>
             </div>
           <Footer />
         </div>
