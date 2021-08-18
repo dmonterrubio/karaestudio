@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "kara_logo",
+      "src": "kara_logo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "kara_logo",
+      "src": "kara_logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
