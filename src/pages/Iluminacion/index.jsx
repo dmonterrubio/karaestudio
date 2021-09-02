@@ -2,18 +2,18 @@ import React from 'react'
 import './style.css'
 import desktopImage from "./iluminacion_web.png"
 import mobileImage from './iluminacion.png';
-import Header from './../Header';
-import Footer from './../Footer';
-import Arrow from './../Arrow'
+import Header from '../../components/Header';
+import Footer from '../../components/Footer';
+import Arrow from '../../components/Arrow'
 
 const Iluminacion = () => {
-    const imageUrl = window.innerWidth >= 650 ? desktopImage : "";
+    const imageUrl = window.innerWidth >= 1025 ? desktopImage : "";
     const imageAttr = { 
         backgroundImage: `url(${imageUrl})`,
         backgroundPosition: 'center',
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat', 
-        position: window.innerWidth >= 650 ? 'absolute': "",
+        position: window.innerWidth >= 1025 ? 'absolute': "",
         zIndex:1,
         width:'100%',
         height:'100%'

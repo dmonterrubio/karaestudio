@@ -1,28 +1,27 @@
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
-import Home from './components/Home'
-import Iluminacion from './components/Iluminacion'
-import Contacto from './components/Contacto'
+import { Route } from "wouter";
+import Home from './pages/Home'
+import Iluminacion from './pages/Iluminacion'
+import Contacto from './pages/Contacto'
 
 import './App.css'
 
 function App() {
   return (
-    <Router>
       <div className="app">
-      <Switch>
-        <Route exact path="/">
-          <Home/>
+        <Route 
+          component={Home}
+          path="/">
         </Route>
-        <Route  path="/iluminacion">
-          <Iluminacion/>
+        <Route  
+          path="/iluminacion"
+          component={Iluminacion}>
         </Route>
-        <Route  path="/contacto">
-          <Contacto/>
+        <Route  
+          path="/contacto"
+          component={Contacto}>
         </Route>
 
-      </Switch>
       </div>
-    </Router>
   );
 }
 

@@ -1,6 +1,7 @@
 import React from 'react'
 import './style.css'
 import logoUrl from './kara_logo.png';
+import { Link } from 'wouter';
 
 
 const Header = () => {
@@ -8,9 +9,9 @@ const Header = () => {
     return (
         <div className="header">
           <div className="logo">
-            <a href="/">
+            <Link to="/">
               <img src={logoUrl} alt="logo" />
-            </a>
+            </Link>
            
           </div>
          <div className="info">

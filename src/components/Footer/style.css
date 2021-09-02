@@ -21,7 +21,7 @@
     margin-left: 20%;
   }
 
-  @media (max-width: 600px) {
+  @media (max-width: 1024px) {
     .footer{
       display: block;
       font-size: 0.8em;
@@ -31,5 +31,8 @@
     }
     .footer .copy{
       margin: 0
+    }
+    .footer .tags {
+      float: none;
     }
   }

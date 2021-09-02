@@ -1,17 +1,18 @@
 import React from 'react'
 import './style.css'
-import {
-  NavLink
-} from "react-router-dom";
+import {  Link} from "wouter";
 
 import ArrowRightAltRoundedIcon from '@material-ui/icons/ArrowRightAltRounded';
 
 const Arrow = ({linkToSection}) => {
 
     return (
-      <NavLink to={linkToSection} className="arrow">
-        <ArrowRightAltRoundedIcon  style={{ fontSize: 60,color: '#000' }}/>
-      </NavLink> 
+      <div className="arrow">
+        <Link to={linkToSection} >
+          <ArrowRightAltRoundedIcon  style={{ fontSize: 60,color: '#000' }}/>
+        </Link> 
+      </div>
+     
     )
 }
 
