@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-import contactoImage from "./retrato_1.jpg"
+import contactoImage from "./retrato_1.jpeg"
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 import Arrow from '../../components/Arrow'

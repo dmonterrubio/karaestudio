@@ -8,6 +8,7 @@ import Arrow from '../../components/Arrow'
 
 
 const Home = () => {
+
     const imageUrl = window.innerWidth >= 1025 ? desktopImage : "";
     const imageAttr = { 
         backgroundImage: `url(${imageUrl})`,

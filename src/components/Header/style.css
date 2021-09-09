@@ -30,6 +30,9 @@
     display: inline-block;
     margin-left: 10%;
   }
+  .header .logo {
+    cursor: pointer;
+  }
 
   @media (max-width: 1024px){
     .header {
