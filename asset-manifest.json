@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.51fddfe3.chunk.css",
-    "main.js": "/static/js/main.6d9ed758.chunk.js",
-    "main.js.map": "/static/js/main.6d9ed758.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b6e25660.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b6e25660.js.map",
-    "static/js/2.afbe4aaf.chunk.js": "/static/js/2.afbe4aaf.chunk.js",
-    "static/js/2.afbe4aaf.chunk.js.map": "/static/js/2.afbe4aaf.chunk.js.map",
-    "static/js/3.e8081996.chunk.js": "/static/js/3.e8081996.chunk.js",
-    "static/js/3.e8081996.chunk.js.map": "/static/js/3.e8081996.chunk.js.map",
+    "main.css": "/static/css/main.6a6ff408.chunk.css",
+    "main.js": "/static/js/main.2fe3e3e5.chunk.js",
+    "main.js.map": "/static/js/main.2fe3e3e5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.32021a96.js",
+    "runtime-main.js.map": "/static/js/runtime-main.32021a96.js.map",
+    "static/js/2.e5118470.chunk.js": "/static/js/2.e5118470.chunk.js",
+    "static/js/2.e5118470.chunk.js.map": "/static/js/2.e5118470.chunk.js.map",
+    "static/js/3.f08155cc.chunk.js": "/static/js/3.f08155cc.chunk.js",
+    "static/js/3.f08155cc.chunk.js.map": "/static/js/3.f08155cc.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.51fddfe3.chunk.css.map": "/static/css/main.51fddfe3.chunk.css.map",
-    "static/js/2.afbe4aaf.chunk.js.LICENSE.txt": "/static/js/2.afbe4aaf.chunk.js.LICENSE.txt",
+    "static/css/main.6a6ff408.chunk.css.map": "/static/css/main.6a6ff408.chunk.css.map",
+    "static/js/2.e5118470.chunk.js.LICENSE.txt": "/static/js/2.e5118470.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/SilkaMono-Regular.0f5161fb.otf",
     "static/media/iluminacion.8bbd4681.png": "/static/media/iluminacion.8bbd4681.png",
     "static/media/iluminacion_web.458066cc.png": "/static/media/iluminacion_web.458066cc.png",
     "static/media/kara_logo.90b1d61b.png": "/static/media/kara_logo.90b1d61b.png",
     "static/media/montañas.c14ef4bd.png": "/static/media/montañas.c14ef4bd.png",
     "static/media/pagina_01_general.2dafd424.png": "/static/media/pagina_01_general.2dafd424.png",
-    "static/media/retrato_1.807814bc.jpg": "/static/media/retrato_1.807814bc.jpg"
+    "static/media/retrato_1.2c9e1ead.jpeg": "/static/media/retrato_1.2c9e1ead.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6e25660.js",
-    "static/js/2.afbe4aaf.chunk.js",
-    "static/css/main.51fddfe3.chunk.css",
-    "static/js/main.6d9ed758.chunk.js"
+    "static/js/runtime-main.32021a96.js",
+    "static/js/2.e5118470.chunk.js",
+    "static/css/main.6a6ff408.chunk.css",
+    "static/js/main.2fe3e3e5.chunk.js"
   ]
 }
