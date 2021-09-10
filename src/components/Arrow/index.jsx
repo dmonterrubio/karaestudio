@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-import {  Link} from "wouter";
+import {Link} from "wouter";
 
 import ArrowRightAltRoundedIcon from '@material-ui/icons/ArrowRightAltRounded';
 
