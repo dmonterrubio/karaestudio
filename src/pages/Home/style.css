@@ -19,6 +19,9 @@
 .mobileImage{
     display: none;
 }
+.mobile-text{
+    display: none;
+}
 
 @media (min-width: 1600px){
     .text p{
@@ -39,6 +42,12 @@
     }
     .mobileImage img{
         width: 100%;
+    }
+    .desktop-text{
+        display: none;
+    }
+    .mobile-text{
+        display: block;
     }
 }
 

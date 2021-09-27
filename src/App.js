@@ -17,7 +17,7 @@ function App() {
         changeLocation('/','/iluminacion')
         changeLocation('/iluminacion','/contacto')
         changeLocation('/contacto','/')  
-      }, 12000);
+      }, 45000);
       return () => clearInterval(timer)
   }, [location, setLocation])
 
