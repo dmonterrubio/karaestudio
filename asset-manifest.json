@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.00f07a82.chunk.css",
-    "main.js": "/static/js/main.c9b80077.chunk.js",
-    "main.js.map": "/static/js/main.c9b80077.chunk.js.map",
+    "main.css": "/static/css/main.f52bc62b.chunk.css",
+    "main.js": "/static/js/main.f33c11a0.chunk.js",
+    "main.js.map": "/static/js/main.f33c11a0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.32021a96.js",
     "runtime-main.js.map": "/static/js/runtime-main.32021a96.js.map",
     "static/js/2.e5118470.chunk.js": "/static/js/2.e5118470.chunk.js",
@@ -10,20 +10,20 @@
     "static/js/3.f08155cc.chunk.js": "/static/js/3.f08155cc.chunk.js",
     "static/js/3.f08155cc.chunk.js.map": "/static/js/3.f08155cc.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.00f07a82.chunk.css.map": "/static/css/main.00f07a82.chunk.css.map",
+    "static/css/main.f52bc62b.chunk.css.map": "/static/css/main.f52bc62b.chunk.css.map",
     "static/js/2.e5118470.chunk.js.LICENSE.txt": "/static/js/2.e5118470.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/SilkaMono-Regular.0f5161fb.otf",
     "static/media/iluminacion.8bbd4681.png": "/static/media/iluminacion.8bbd4681.png",
     "static/media/iluminacion_web.458066cc.png": "/static/media/iluminacion_web.458066cc.png",
     "static/media/kara_logo.90b1d61b.png": "/static/media/kara_logo.90b1d61b.png",
     "static/media/montañas.c14ef4bd.png": "/static/media/montañas.c14ef4bd.png",
-    "static/media/pagina_01_general.2dafd424.png": "/static/media/pagina_01_general.2dafd424.png",
+    "static/media/montañas_web.dec62200.png": "/static/media/montañas_web.dec62200.png",
     "static/media/retrato_1.2c9e1ead.jpeg": "/static/media/retrato_1.2c9e1ead.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.32021a96.js",
     "static/js/2.e5118470.chunk.js",
-    "static/css/main.00f07a82.chunk.css",
-    "static/js/main.c9b80077.chunk.js"
+    "static/css/main.f52bc62b.chunk.css",
+    "static/js/main.f33c11a0.chunk.js"
   ]
 }
