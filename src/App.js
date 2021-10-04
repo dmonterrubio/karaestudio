@@ -3,10 +3,14 @@ import { Route, useLocation } from "wouter";
 import Home from './pages/Home'
 import Iluminacion from './pages/Iluminacion'
 import Contacto from './pages/Contacto'
+import { motion, AnimatePresence } from "framer-motion";
+
 
 import './App.css'
 
-function App() {
+
+
+const  App = (props) =>  {
   const [location, setLocation] = useLocation();
 
   useEffect(() => {
@@ -25,7 +29,7 @@ function App() {
       <div className="app">
         <Route 
           component={Home}
-          path="/">
+          path="/:props">
         </Route>
         <Route  
           path="/iluminacion"
