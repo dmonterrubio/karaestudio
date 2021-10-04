@@ -35,19 +35,12 @@ const Home = () => {
                     Interiorismo
                 </div>
                 <p className="desktop-text">
-                    Desarrollamos <u>proyectos</u> de interiorismo
-                    <u>sostenible</u> para un impacto <u>positivo</u> en
-                    las personas y el entorno. Construimos y
-                    rehabilitamos espacios <u>bellos</u>, confortables
-                    y <u>saludables</u> para convivir en armonía con el
-                    medio ambiente. En los espacios comerciales,
+                    Desarrollamos <u>proyectos</u> de interiorismo <u>sostenible</u> para un impacto <u>positivo</u> en las personas y el entorno. Construimos y rehabilitamos espacios <u>bellos</u>, confortables y <u>saludables</u> para convivir en armonía con el medio ambiente. En los espacios comerciales,
                     hogares y lugares de trabajo que proyectamos,
                     aunamos <u>tradición</u>, <u>sostenibilidad</u> y <u>vanguardia</u>.
-                    Una apuesta renovada por la <u>bioconstrucción</u>
-                    que recupera nuestra sabiduría tradicional,
+                    Una apuesta renovada por la <u>bioconstrucción</u> que recupera nuestra sabiduría tradicional,
                     los valores artesanales y el uso de materiales
-                    <u>orgánicos</u> y naturales. Todo ello sin olvidarnos
-                    y teniendo muy en cuenta los avances
+                    <u>orgánicos</u> y naturales. Todo ello sin olvidarnos y teniendo muy en cuenta los avances
                     <u>tecnológicos</u> en el sector de la construcción.
                     En nuestros proyectos evitamos la presencia
                     de elementos nocivos para la <u>salud</u> y el medio

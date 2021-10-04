@@ -1,6 +1,15 @@
 .arrow {
-  float: right;
-  padding-right: 13%;
-  padding-top: 2%;
+  margin-right: 9%;
   cursor: pointer;
+}
+.arrow img {
+  width: 5%;
+  float: right;
+}
+
+@media (max-width: 1024px){
+  .arrow img{
+    width: 12%;
+    margin: 5% 0px;
+  }
 }

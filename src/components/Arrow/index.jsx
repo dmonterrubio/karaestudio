@@ -1,15 +1,14 @@
 import React from 'react'
 import './style.css'
 import {Link} from "wouter";
-
-import ArrowRightAltRoundedIcon from '@material-ui/icons/ArrowRightAltRounded';
+import arrow from './flecha.png'
 
 const Arrow = ({linkToSection}) => {
 
     return (
       <div className="arrow">
         <Link to={linkToSection} >
-          <ArrowRightAltRoundedIcon  style={{ fontSize: 60,color: '#000' }}/>
+          <img src={arrow} alt="arrow" />
         </Link> 
       </div>
      
