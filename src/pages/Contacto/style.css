@@ -19,6 +19,7 @@
 }
 .contacto .media img {
     padding-right: 20%;
+    width: 28%;
 }
 .contacto .mobileImage {
     display: none;
