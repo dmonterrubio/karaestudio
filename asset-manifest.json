@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e92e7af1.chunk.css",
+    "main.css": "/static/css/main.385cfdf3.chunk.css",
     "main.js": "/static/js/main.7161a031.chunk.js",
     "main.js.map": "/static/js/main.7161a031.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ff8ad3f6.js",
@@ -10,7 +10,7 @@
     "static/js/3.3634de92.chunk.js": "/static/js/3.3634de92.chunk.js",
     "static/js/3.3634de92.chunk.js.map": "/static/js/3.3634de92.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.e92e7af1.chunk.css.map": "/static/css/main.e92e7af1.chunk.css.map",
+    "static/css/main.385cfdf3.chunk.css.map": "/static/css/main.385cfdf3.chunk.css.map",
     "static/js/2.6abf59f3.chunk.js.LICENSE.txt": "/static/js/2.6abf59f3.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/SilkaMono-Regular.0f5161fb.otf",
     "static/media/contacto.1bb1dc04.jpg": "/static/media/contacto.1bb1dc04.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.ff8ad3f6.js",
     "static/js/2.6abf59f3.chunk.js",
-    "static/css/main.e92e7af1.chunk.css",
+    "static/css/main.385cfdf3.chunk.css",
     "static/js/main.7161a031.chunk.js"
   ]
 }
