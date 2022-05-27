@@ -5,6 +5,8 @@
 .contacto .text{
     font-size: 0.8em;
     margin-left: 10%;
+    width: 22%;
+    float: left;
 }
 .contacto .datos {
     float: left;
@@ -14,10 +16,9 @@
 }
 .contacto .media {
     text-align: center;
-    padding-bottom: 7%;
 }
 .contacto .media img {
-    width: 40%;
+    padding-right: 20%;
 }
 .contacto .mobileImage {
     display: none;
@@ -32,8 +33,13 @@
     }
     .contacto .mobileImage {
         display: block;
+        margin: 2px;
     }
     .contacto .datos {
         float: none;
+    }
+    .contacto .text {
+        width: auto;
+        float: none; 
     }
 }

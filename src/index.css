@@ -16,6 +16,7 @@
 
 
 body {
+  overflow: hidden;
   margin: 0;
   font-family: Silkamono;
   -webkit-font-smoothing: antialiased;
@@ -45,5 +46,11 @@ code {
 
 p {
   line-height: 30px;
+}
+
+@media (max-width: 1024px) {
+  body{
+    overflow: auto;
+  }
 }
 

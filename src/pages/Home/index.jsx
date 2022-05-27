@@ -35,10 +35,24 @@ const Home = () => {
                     Interiorismo
                 </div>
                 <p className="desktop-text">
-                    Desarrollamos <u>proyectos</u> de interiorismo <u>sostenible</u> para un impacto <u>positivo</u> en las personas y el entorno. Construimos y rehabilitamos espacios <u>bellos</u>, confortables y <u>saludables</u> para convivir en armonía con el medio ambiente. En los espacios comerciales, hogares y lugares de trabajo que proyectamos, aunamos <u>tradición</u>, <u>sostenibilidad</u> y <u>vanguardia</u>. Una apuesta renovada por la <u>bioconstrucción</u> que recupera nuestra sabiduría tradicional, los valores artesanales y el uso de materiales <u>orgánicos</u> y naturales. Todo ello sin olvidarnos y teniendo muy en cuenta los avances <u>tecnológicos</u> en el sector de la construcción. En nuestros proyectos evitamos la presencia de elementos nocivos para la <u>salud</u> y el medio ambiente. Apostamos por la <u>reutilización</u> de materiales,tanto en el diseño de interiores como en el diseño de mobiliario. 
+                    Desarrollamos <u>proyectos</u> de interiorismo <u>sostenible</u> para un impacto <u>positivo</u> tanto en las personas como en nuestro entorno. 
+                    En los espacios que proyectamos, aunamos <u>tradición</u>, <u>sostenibilidad</u> y <u>vanguardia</u> además de una apuesta renovada por la <u>bioconstrucción</u>.
+                    Esto nos permite recuperar los valores artesanales y el uso de materiales <u>orgánicos</u> y <u>naturales</u>. Todo ello teniendo muy en cuenta los avances <u>tecnológicos</u> en el sector de la construcción. 
+                    Entendemos los <u>interiores</u> como espacios <u>vivos</u> que van cambiando según sus necesidades, entorno y ubicación.
+                    Pensamos en la estacionalidad y en como el paso del día a la noche hace que los espacios cambien y se transformen. Esta manera de entender y fluir con la arquitectura
+                    nos lleva a tener un gran respeto por las necesidades básicas de los espacios a diseñar.
+                    Buscamos el equilibrio entre <u>funcionalidad</u>, confort y belleza, diseñando espacios sanos
+                    y que faciliten el bien estar de las personas.
                 </p>
                 <p className="mobile-text">
-                    Desarrollamos <u>proyectos</u> de interiorismo <u>sostenible</u> para un impacto <u>positivo</u> en las personas y el entorno. Construimos y rehabilitamos espacios <u>bellos</u>, confortables y <u>saludables</u> para convivir en armonía con el medio ambiente. En los espacios comerciales, hogares y lugares de trabajo que proyectamos, aunamos <u>tradición</u>, <u>sostenibilidad</u> y <u>vanguardia</u>. Una apuesta renovada por la <u>bioconstrucción</u> que recupera nuestra sabiduría tradicional, los valores artesanales y el uso de materiales <u>orgánicos</u> y naturales. Todo ello sin olvidarnos y teniendo muy en cuenta los avances <u>tecnológicos</u> en el sector de la construcción.
+                    Desarrollamos <u>proyectos</u> de interiorismo <u>sostenible</u> para un impacto <u>positivo</u> positivo tanto en
+                    las personas como en nuestro entorno. En los espacios que proyectamos,
+                    aunamos <u>tradición</u>, <u>sostenibilidad</u> y <u>vanguardia</u>, además de una apuesta renovada por
+                    la <u>bioconstrucción</u>. Entendemos los interiores como espacios vivos que van cambiando
+                    según sus necesidades, entorno y ubicación. Esta manera de entender y fluir con la
+                    arquitectura nos lleva a tener un gran <u>respeto</u> por las necesidades básicas de los
+                    espacios a diseñar. Buscamos el equilibrio entre funcionalidad, confort y belleza
+                    diseñando espacios sanos que faciliten el bien estar de las personas. 
                 </p>
             </div>
           <Footer />

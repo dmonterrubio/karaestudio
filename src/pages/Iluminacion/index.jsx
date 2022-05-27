@@ -32,23 +32,32 @@ const Iluminacion = () => {
                     Iluminación
                 </div>
                 <p className="desktop-text">
-                    Somos <u>especialistas</u> en <u>Iluminación</u> arquitectónica tanto de <u>interiores</u> _espacios comerciales, vivienda, hoteles, restaurantes, espacios de bienestar, museos, arte efímero como de <u>exteriores</u> _ jardines, patios, monumentos, espacios públicos...
+                    Somos especialistas en el diseño de <u>proyectos</u> de <u>iluminación</u>. Ya desde nuestros
+                    comienzos como interioristas entendimos que una propuesta de iluminación adecuada
+                    incide notablemente en el resultado final.
                 </p>
                 <p className="desktop-text">
-                    Desde nuestros comienzos como Interioristas entendimos la importancia de plantear <u>soluciones lumínicas</u> concretas para los diferentes espacios dependiendo de sus usos y necesidades.
+                    Hay muchos factores que se han de tener en
+                    cuenta para iluminar correctamente y nuestra amplia experiencia nos permite hacer
+                    todo tipo de proyectos de iluminación desde el mas <u>artístico</u> y conceptual, hasta el más <u>técnico</u> y complejo, pasando por grandes y pequeños proyectos de retail, vivienda
+                    privada, hoteles, restauración y sin olvidarnos de la iluminación de espacios exteriores.
                 </p>
                 <p className="desktop-text">
-                    Una propuesta de iluminación <u>adecuada</u> al espacio incide notablemente en el resultado final.
-                </p>
-                <p className="desktop-text">
-                    <u>La luz</u> nos ayudará a percibir los espacios, a crear sensaciones y a potenciar nuestro <u>bienestar físico y mental</u>.
+                    <u>La luz nos</u> ayudará a percibir los espacios, a crear sensaciones y a potenciar nuestro <u>bienestar físico y mental</u>.
                 </p>
                 <p className="mobile-text">
-                    Somos <u>especialistas</u> en <u>Iluminación</u> arquitectónica tanto de <u>interiores</u> _espacios comerciales, vivienda, hoteles, restaurantes, espacios de bienestar, museos, arte efímero como de <u>exteriores</u> _ jardines, patios, monumentos, espacios públicos...
+                    Somos especialistas en el diseño de <u>proyectos</u> de <u>iluminación</u>. Hay muchos factores que
+                    se han de tener en cuenta para iluminar correctamente y nuestra amplia experiencia nos
+                    permite hacer todo tipo de proyectos de iluminación desde el mas <u>artístico</u> y conceptual,
+                    hasta el más <u>técnico</u> y complejo, pasando por grandes y pequeños proyectos de retail,
+                    vivienda privada, hoteles, restauración y sin olvidarnos de la iluminación de espacios
+                    exteriores.
                 </p>
                 <p className="mobile-text">
-                    Una <u>propuesta</u> de iluminación <u>adecuada</u> al espacio, incide notablemente en el resultado final. La <u>luz</u> nos ayudará a percibir los <u>espacios</u>, a crear <u>sensaciones</u> y a potenciar nuestro <u>bienestar</u> físico y mental.
+                    <u>La luz</u> nos ayudará a percibir los espacios, a crear sensaciones y a potenciar
+                    nuestro <u>bienestar físico y mental</u>.
                 </p>
+               
             </div>
           <Footer />
         </div>
